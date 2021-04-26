@@ -1,2 +1,5 @@
 *.csv
 team_selections_gw1.ipynb
+shirts
+team_season_functions.ipynb
+team_selections_season.ipynb
